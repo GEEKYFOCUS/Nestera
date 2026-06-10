@@ -19,3 +19,7 @@ PR_DESCRIPTION_ISSUE74.md
 issue.md
 
 /contracts/test_snapshots
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
